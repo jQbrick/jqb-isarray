@@ -1,0 +1,34 @@
+{
+  "name": "jqb-isarray",
+  "version": "0.1.0",
+  "description": "define if a given input is an array",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jQbrick/jqb-isarray"
+  },
+  "keywords": [
+    "array",
+    "isarray",
+    "test",
+    "jqbrick"
+  ],
+  "author": {
+    "name": "Marco Pegoraro",
+    "url": "http://movableapp.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jQbrick/jqb-isarray/issues"
+  },
+  "homepage": "https://github.com/jQbrick/jqb-isarray",
+  "devDependencies": {
+    "grunt": "~0.4.4",
+    "grunt-mocha-chai-sinon": "0.0.7",
+    "grunt-contrib-watch": "~0.6.1",
+    "grunt-open": "~0.2.3"
+  }
+}
